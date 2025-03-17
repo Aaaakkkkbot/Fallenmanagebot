@@ -6,9 +6,9 @@ services:
       type: docker
     env:
       - key: API_ID
-        value: "21418386"
+        value: "26626068"
       - key: API_HASH
-        value: "aeac46b1d123e82fe6dcb43b6a26cfae"
+        value: "bf423698bcbe33cfd58b11c78c42caa2"
       - key: BOT_TOKEN
         value: "5653372716:AAHeOJrabkMq0oOO8DKYgrY3IhR4Xc1yabg"
     ports:
