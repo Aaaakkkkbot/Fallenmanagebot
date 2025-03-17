@@ -10,6 +10,6 @@ services:
       - key: API_HASH
         value: "bf423698bcbe33cfd58b11c78c42caa2"
       - key: BOT_TOKEN
-        value: "5653372716:AAHeOJrabkMq0oOO8DKYgrY3IhR4Xc1yabg"
+        value: "5762225287:AAFQR8gD489u7qqapypLfuiA5jl-AYLYHcg"
     ports:
       - 8080
