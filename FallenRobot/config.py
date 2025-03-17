@@ -2,8 +2,8 @@ class Config(object):
     LOGGER = True
 
     # Get this value from my.telegram.org/apps
-    API_ID = 6
-    API_HASH = "eb06d4abfb49dc3eeb1aeb98ae0f581e"
+    API_ID = 5653372716
+    API_HASH = "aeac46b1d123e82fe6dcb43b6a26cfae"
 
     CASH_API_KEY = ""  # Get this value for currency converter from https://www.alphavantage.co/support/#api-key
 
@@ -18,11 +18,11 @@ class Config(object):
 
     SUPPORT_CHAT = "DevilsHeavenMF"  # Your Telegram support group chat username where your users will go and bother you
 
-    TOKEN = ""  # Get bot token from @BotFather on Telegram
+    TOKEN = "5653372716:AAHeOJrabkMq0oOO8DKYgrY3IhR4Xc1yabg"  # Get bot token from @BotFather on Telegram
 
     TIME_API_KEY = ""  # Get this value from https://timezonedb.com/api
 
-    OWNER_ID = 1356469075  # User id of your telegram account (Must be integer)
+    OWNER_ID = 5790406250  # User id of your telegram account (Must be integer)
 
     # Optional fields
     BL_CHATS = []  # List of groups that you want blacklisted.
